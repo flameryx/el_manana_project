@@ -1,0 +1,6 @@
+To connect to another computer through the internet, you need to first
+get the public IP-Address of the computer you want to connect to.
+You may get in some complications with the firewalls in the server as well
+as in the clients side. A quick fix may be to deactivate it.
+
+Question: How do programms like Discord share messages through the firewall?
